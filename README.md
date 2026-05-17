@@ -1,8 +1,8 @@
 # Guild Management Platform
 
-[![Deployment Status](https://shields.io)](https://vercel.app)
-[![Python Version](https://shields.io)](https://python.org)
-[![Serialization](https://shields.io)](https://protobuf.dev)
+![Deployment Status](https://shields.io)
+![Python Version](https://shields.io)
+![Serialization](https://shields.io)
 
 An enterprise-grade, high-performance microservice architecture engineered for online gaming guild and clan operations. The platform leverages Google Protocol Buffers (Protobuf) for ultra-low latency, strongly-typed data serialization, structured over a serverless framework optimized for immediate global scalability via Vercel.
 
