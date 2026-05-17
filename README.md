@@ -1,6 +1,6 @@
 # Guild Management Platform
 
-![Deployment Status](https://shields.io)
+![Static Badge](https://img.shields.io/badge/Deployment)
 ![Python Version](https://shields.io)
 ![Serialization](https://shields.io)
 
