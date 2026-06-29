@@ -17,12 +17,12 @@ import output_pb2
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 app = Flask(__name__)
 
-OB = "OB53"
+OB = "OB54"
 
 API_INFO = {
-    "developer": "𝗦𝗧𝗔𝗥",
-    "telegram": "@STAR_GMR",
-    "api_name": "FF GUILD JOIN/LEAVE API",
+    "developer": "Ayaan",
+    "telegram": "PakTcpBots",
+    "api_name": "Guild Management Api",
     "version": OB
 }
 
@@ -117,7 +117,7 @@ def perform_major_login(access_token, open_id):
         game.timestamp = "2024-12-05 18:15:32"
         game.game_name = "free fire"
         game.game_version = 1
-        game.version_code = "1.123.2"
+        game.version_code = "1.126.1"
         game.os_info = "Android OS 12 / API-31"
         game.device_type = "Handheld"
         game.network_provider = "Verizon"
