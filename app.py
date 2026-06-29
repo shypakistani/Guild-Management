@@ -356,7 +356,7 @@ def api_request_access():
         "region": region,
         "login_method": method,
         "developer": API_INFO["developer"],
-        "telegram": API_INFO["telegram"],
+        "telegram": API_INFO["Instagram"],
         "api_version": API_INFO["version"],
         "server_response": text
     })
@@ -385,7 +385,7 @@ def api_quit_access():
         "region": region,
         "login_method": method,
         "developer": API_INFO["developer"],
-        "telegram": API_INFO["telegram"],
+        "telegram": API_INFO["instagrm"],
         "api_version": API_INFO["version"],
         "server_response": text
     })
