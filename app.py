@@ -1,6 +1,3 @@
-#𝗚𝗨𝗜𝗟𝗗 𝗝𝗢𝗜𝗡 & 𝗟𝗘𝗔𝗩𝗘 𝗔𝗣𝗜 𝗦𝗥𝗖 
-#𝗕𝗬 𝗧𝗚 𝗜𝗗 : @𝗦𝗧𝗔𝗥_𝗚𝗠𝗥 
-#𝗧𝗚 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : @𝗣𝗩𝗧_𝗦𝗧𝗔𝗥
 from flask import Flask, request, jsonify, Response
 import requests
 import jwt
@@ -21,7 +18,7 @@ OB = "OB54"
 
 API_INFO = {
     "developer": "Ayaan",
-    "telegram": "PakTcpBots",
+    "Instagram": "PakTcpBots",
     "api_name": "Guild Management Api",
     "version": OB
 }
