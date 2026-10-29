@@ -14,7 +14,7 @@ import output_pb2
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 app = Flask(__name__)
 
-OB = "OB54"
+OB = "OB55"
 
 API_INFO = {
     "developer": "Ayaan",
